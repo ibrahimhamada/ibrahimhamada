@@ -7,6 +7,12 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ibrahimhamada74/ "Connect on Facebook")
 <div> <b> - I'm a Senior Communication and Information Engineering Studnet at Zewail City, who is passionate about Software Development, Data Science and Machine Learning. </b>
 </div>
+
+
+<div align="center">
+  <code> - 🌱 I’m currently learning more about React and SaaS.
+ </code>
+</div>
   
 <h1></h1>
  
