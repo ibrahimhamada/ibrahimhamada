@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <code> - 🌱 I’m currently learning more about React and SaaS.
+  <code> - 🌱 I’m currently learning more about React and Sass.
  </code>
 </div>
   
