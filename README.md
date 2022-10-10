@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/himahamada "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hemaa43 "Follow on Twitter")
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ibrahimhamada74/ "Connect on Facebook")
-<div> <b> - I'm a Senior Communication and Information Engineering Studnet at Zewail City, who is passionate about Software Development, Data Science and Machine Learning. </b>
+<div> <b> - I'm a Senior Communication and Information Engineering Student at Zewail City, who is passionate about Software Development, Data Science and Machine Learning. </b>
 </div>
 
 
