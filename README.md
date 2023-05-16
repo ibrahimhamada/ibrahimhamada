@@ -10,8 +10,7 @@
 
 
 <div align="center">
-  <code> - 🌱 I’m currently learning more about Deep Learning and NLP.
- </code>
+  <code> - 🌱 I’m currently learning more about Deep Learning and NLP.</code>
 </div>
   
 <h1></h1>
