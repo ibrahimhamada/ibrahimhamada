@@ -4,7 +4,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0078FF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ibrahimhamada "Connect on Kaggle")
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/himahamada "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hemaa43 "Follow on Twitter")
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ibrahimhamada74/ "Connect on Facebook")
 <div> <b> - I'm a Graduating Senior majoring in the Communication and Information Engineering at Zewail City. I am deeply passionate about the fields of Data Science, Machine Learning, and Software Development. </b>
 </div>
 
@@ -63,6 +62,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhamada&count_private=true&show_icons=true&locale=en" alt="IbrahimHamada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhamada" alt="IbrahimHamada" /></p>
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ibrahimhamada74/ "Connect on Facebook")
 
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrahimhamada&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhamada" /> </p>
